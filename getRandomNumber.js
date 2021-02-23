@@ -4,3 +4,8 @@ function getRandomLetter(){
 } 
 
 console.log(getRandomLetter());
+
+//I want to add a new function
+function getString (){
+    return "my new function's return part";
+}
