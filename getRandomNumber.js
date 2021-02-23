@@ -1,5 +1,6 @@
-function getRandomNumber(){
-    return Math.random();
-}
+function getRandomLetter(){
+    let randLetter = "c";
+    return randLetter;
+} 
 
-console.log(getRandomNumber());
+console.log(getRandomLetter());
